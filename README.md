@@ -1,4 +1,5 @@
 # Data Science Portfolio 
+
 A collection of statistical & machine learning projects I've worked on for academic, self-learning, and professional purposes.
 ## 
 ### [Customer Retention Case Study](https://rpubs.com/kellibelcher/769293)
