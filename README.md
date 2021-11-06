@@ -1,5 +1,10 @@
 # Data Science Portfolio 
 A collection of statistical and machine learning projects I've worked on for academic, self-learning, and professional purposes. 
+
+## Python
+### [Predicting the probability of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone)
+
+## R
 ### [Customer Retention Case Study](https://rpubs.com/kellibelcher/769293)
 - Tested several different supervised learning algorithms to build a model that predicts customer churn with 81.4% sensitivity. 
 - Analyzed all relevant customer data and developed a focused customer retention program.
