@@ -3,8 +3,7 @@ A collection of statistical and machine learning projects I've worked on for aca
 
 ## Python
 ### [Predicting the probability of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone)
-- Collected SpaceX data using webscraping
-- Developed a support vector machine model to predict the likelihood of a successful rocket launch with an Area Under the Curve of 0.945.
+
 
 ## R
 ### [Customer Retention Case Study](https://rpubs.com/kellibelcher/769293)
@@ -14,7 +13,7 @@ A collection of statistical and machine learning projects I've worked on for aca
 - Developed a K-Nearest Neighbors model to predict whether an individual will make a donation to a national nonprofit veterans' organization with an Area Under the Curve of 76.3%.
 ### [Predicting Customer Purchases](https://rpubs.com/kellibelcher/735222)
 - Compared Support Vector Machines and Logistic Regression to develop a predictive model that can identify which customers to target in a new direct marketing campaign with 71.6% sensitivity. 
-### [Stock Price Predictions](https://rpubs.com/kellibelcher/795841)
+### [Stock Performance Predictions](https://rpubs.com/kellibelcher/795841)
 - Predicted the returns of each stock in the Dow Jones Index using Support Vector Regression.
 - Quantified the risk associated with each investment using a Capital Asset Pricing Model. 
 ### [Bank Marketing Case Study](https://rpubs.com/kellibelcher/726187)
