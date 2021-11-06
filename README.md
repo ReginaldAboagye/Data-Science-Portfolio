@@ -10,7 +10,7 @@ A collection of statistical and machine learning projects I've worked on for aca
 - Tested several different supervised learning algorithms to develop a logistic model that predicts customer churn with 81.4% sensitivity. 
 - Analyzed all relevant customer data and designed a focused customer retention program.
 ### [Finding Donors for Charity](https://rpubs.com/kellibelcher/795493)
-- Developed a K-Nearest Neighbors model to predict whether an individual will make a donation to a national nonprofit veterans' organization with an Area Under the Curve of 76.3%.
+- Developed a K-Nearest Neighbors model to predict whether an individual will make a donation to a national nonprofit veterans' organization with an Area Under the Curve of 0.763.
 ### [Predicting Customer Purchases](https://rpubs.com/kellibelcher/735222)
 - Compared Support Vector Machines and Logistic Regression to develop a predictive model that can identify which customers to target in a new direct marketing campaign with 71.6% sensitivity. 
 ### [Dow Jones Stock Performance Predictions](https://rpubs.com/kellibelcher/795841)
