@@ -3,6 +3,8 @@ A collection of statistical and machine learning projects I've worked on for aca
 
 ## Python
 ### [Predicting the probability of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone)
+- Collected SpaceX data using webscraping
+- Developed a support vector machine model to predict the likelihood of a successful rocket launch with an Area Under the Curve of 0.945.
 
 ## R
 ### [Customer Retention Case Study](https://rpubs.com/kellibelcher/769293)
