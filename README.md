@@ -7,8 +7,8 @@ A collection of statistical and machine learning projects I've worked on for aca
 
 ## R
 ### [Customer Retention Case Study](https://rpubs.com/kellibelcher/769293)
-- Tested several different supervised learning algorithms to build a logistic model that predicts customer churn with 81.4% sensitivity. 
-- Analyzed all relevant customer data and developed a focused customer retention program.
+- Tested several different supervised learning algorithms to develop a logistic model that predicts customer churn with 81.4% sensitivity. 
+- Analyzed all relevant customer data and designed a focused customer retention program.
 ### [Finding Donors for Charity](https://rpubs.com/kellibelcher/795493)
 - Developed a K-Nearest Neighbors model to predict whether an individual will make a donation to a national nonprofit veterans' organization with an Area Under the Curve of 76.3%.
 ### [Predicting Customer Purchases](https://rpubs.com/kellibelcher/735222)
