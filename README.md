@@ -21,4 +21,4 @@ A collection of statistical and machine learning projects I've worked on for aca
 - Model selection and validation were performed using Akaike and Bayesian Information Criterion.
 ### [Time Series Analysis](https://rpubs.com/kellibelcher/767453)
 - Utilized ACF and PACF plots to develop a seasonal ARIMA model and compared it to an Exponential Smoothing model.
-- Forecasted the monthly US unemployment rate and compared the models' performance using the Root Mean Squared Error. 
+- Forecasted the monthly US unemployment rate and quantified the models' performance using the Root Mean Squared Error. 
