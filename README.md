@@ -2,7 +2,7 @@
 A collection of statistical and machine learning projects I've worked on for academic, self-learning, and professional purposes. 
 
 ## Python
-### [Predicting the probability of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone)
+### [Predicting the propensity of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone)
 
 
 ## R
@@ -17,7 +17,8 @@ A collection of statistical and machine learning projects I've worked on for aca
 - Predicted the returns of each stock in the Dow Jones Index using Support Vector Regression.
 - Quantified the risk associated with each investment using a Capital Asset Pricing Model. 
 ### [Bank Marketing Case Study](https://rpubs.com/kellibelcher/726187)
-- A logistic regression model was used to predict whether or not a customer would subscribe to a long-term bank deposit with 73.4% accuracy. 
+- Built a logistic regression model to predict whether or not a customer would subscribe to a long-term bank deposit with 73.4% accuracy. 
 - Model selection and validation were performed using Akaike and Bayesian Information Criterion.
 ### [Time Series Analysis](https://rpubs.com/kellibelcher/767453)
-- Compared seasonal and non-seasonal ARIMA models to Exponential Smoothing to predict monthly US unemployment rates.
+- Utilized ACF and PACF plots to develop a seasonal ARIMA model and compared it to an Exponential Smoothing model.
+- Forecasted the monthly US unemployment rate and compared the models' performance using the Root Mean Squared Error. 
