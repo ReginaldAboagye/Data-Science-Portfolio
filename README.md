@@ -3,11 +3,13 @@ A collection of statistical and machine learning projects I've worked on for aca
 
 ## Python
 ### [Predicting the propensity of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone)
-
+- Collected and processed raw data via webscraping and a REST API.
+- Explored the data using different visual analytics tools, including interactive maps and a `Plotly` [dashboard](http://spacexdashappkellibelcher.pythonanywhere.com/).
+- Built a Support Vector Machine model to predict the likelihood of a rocket launch success with an Area Under the Curve of 0.958.
 
 ## R
 ### [Customer Retention Case Study](https://rpubs.com/kellibelcher/769293)
-- Tested several different supervised learning algorithms to develop a logistic model that predicts customer churn with 81.4% sensitivity. 
+- Tested several supervised learning algorithms to develop a logistic model that predicts customer churn with 81.4% sensitivity. 
 - Analyzed all relevant customer data and designed a focused customer retention program.
 ### [Finding Donors for Charity](https://rpubs.com/kellibelcher/795493)
 - Developed a K-Nearest Neighbors model to predict whether an individual will make a donation to a national nonprofit veterans' organization with an Area Under the Curve of 0.763.
