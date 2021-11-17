@@ -8,7 +8,7 @@ A collection of statistical and machine learning projects I've worked on for aca
 - Built a Support Vector Machine model to predict the likelihood of a rocket launch success with an [Area Under the Curve of 0.958](https://www.kaggle.com/kellibelcher/spacex-rocket-landing-predictive-analysis).
 
 ## R
-### [Customer Attrition Mitigation and Retention](https://rpubs.com/kellibelcher/769293)
+### [Customer Attrition Mitigation and Retention Analysis](https://rpubs.com/kellibelcher/769293)
 - Tested several supervised learning algorithms to develop a classification model that predicts customer churn with 81.4% sensitivity. 
 - Analyzed all relevant customer data and identified customer retention strategies for a telecom company.
 ### [Finding Donors for Charity](https://rpubs.com/kellibelcher/795493)
