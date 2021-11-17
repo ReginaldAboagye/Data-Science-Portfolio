@@ -1,13 +1,13 @@
 # Data Science Portfolio 
 A collection of statistical and machine learning projects I've worked on for academic, self-learning, and professional purposes. 
 
-## Python
+## Python [![python][3]][4]
 ### [Predicting the likelihood of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone)
 - Collected and processed raw data via webscraping and a REST API.
 - Explored the data using different visual analytics tools, including interactive maps, graphs, and a [Plotly dashboard](http://spacexdashappkellibelcher.pythonanywhere.com/).
 - Built a Support Vector Machine model to predict the likelihood of a rocket launch success with an [Area Under the Curve of 0.958](https://www.kaggle.com/kellibelcher/spacex-rocket-landing-predictive-analysis).
 
-## R
+## [![R][1]][2]
 ### [Customer Attrition Mitigation and Retention Analysis](https://rpubs.com/kellibelcher/769293)
 - Tested several supervised learning algorithms to develop a classification model that predicts customer churn with 81.4% sensitivity. 
 - Analyzed all relevant customer data and identified customer retention strategies for a telecom company.
@@ -24,3 +24,10 @@ A collection of statistical and machine learning projects I've worked on for aca
 ### [Time Series Analysis](https://rpubs.com/kellibelcher/767453)
 - Utilized ACF and PACF plots to develop a seasonal ARIMA model and compared it to an Exponential Smoothing model.
 - Forecasted the monthly US unemployment rate and quantified the models' performance using the Root Mean Squared Error. 
+
+
+<!-- icons -->
+[1]: https://github.com/kellibelcher/kellibelcher/blob/main/rstudio-logo48.png (R)
+[2]: https://rpubs.com/kellibelcher
+[3]: https://github.com/kellibelcher/kellibelcher/blob/main/python24.png (Python) 
+[4]: https://www.python.org/
