@@ -1,5 +1,5 @@
-# Data Science Portfolio 
-A collection of statistical and machine learning projects I've worked on for academic, self-learning, and professional purposes. 
+<h1 align="center">Data Science Portfolio</h1>  
+<p align="center"> A collection of statistical and machine learning projects I've worked on for academic, self-learning, and professional purposes. </p>
 
 ## Python [![python][3]][4]
 ### [Predicting the likelihood of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone) 🚀
