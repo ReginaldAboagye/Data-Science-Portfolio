@@ -37,7 +37,7 @@
 
 
 <!-- icons -->
-[1]: https://github.com/kellibelcher/kellibelcher/blob/main/rstudio-logo48.png (R)
+[1]: https://github.com/kellibelcher/kellibelcher/blob/main/images/rstudio48.png (R)
 [2]: https://rpubs.com/kellibelcher
-[3]: https://github.com/kellibelcher/kellibelcher/blob/main/python24.png (Python) 
+[3]: https://github.com/kellibelcher/kellibelcher/blob/main/images/python24.png (Python) 
 [4]: https://www.python.org/
